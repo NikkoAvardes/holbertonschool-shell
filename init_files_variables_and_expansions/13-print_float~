@@ -1,0 +1,2 @@
+#!/bin/bash
+num=echo (($NUM)) | printf "$num.2f"
