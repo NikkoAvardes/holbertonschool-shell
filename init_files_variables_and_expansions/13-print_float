@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%$NUM.2f"
+export $NUM && printf "%.2f"
